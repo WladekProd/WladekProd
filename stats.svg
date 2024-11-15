@@ -1,0 +1,23 @@
+<svg fill="none" viewBox="0 0 800 150" width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background-color: black;
+          width: 100%;
+          height: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+      </style>
+
+      <div class="container" style="background-color: #282a36; border-radius: 10px;">
+        <img width="300" height="150" src="https://github-readme-stats.vercel.app/api?username=wladekprod&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="stats graph" />
+        <img width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="languages graph" />
+      </div>
+    </div>
+  </foreignObject>
+</svg>
