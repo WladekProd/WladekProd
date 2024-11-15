@@ -20,4 +20,4 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCW_ndYxCcDocccujepKrmWw)
 [![Telegram](https://img.shields.io/endpoint?url=https%3A%2F%2Fmogyo.ro%2Fquart-apis%2Ftgmembercount%3Fchat_id%3Dwladek_sfw&style=flat&logoColor=%23FFFF)](https://t.me/wladek_sfw)
 [![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dwladek%26type%3Dpatrons&style=flat)](https://patreon.com/wladek)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=wladekprod)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=wladekprod.visitor-badge)
