@@ -1,5 +1,5 @@
 <div height="300" align="center">
-  <img src="https://github.com/WladekProd/WladekProd/blob/main/cover.jpg" height="150" alt="stats graph"  />
+  <img height="100%" object-fit="cover" src="https://github.com/WladekProd/WladekProd/blob/main/cover.jpg" alt="stats graph"  />
 </div>
 
 # 📊 GitHub Stats:
