@@ -4,8 +4,8 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=400" alt="stats graph"  />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=100" alt="languages graph"  />
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&hide=contribs,prs&card_width=300" alt="stats graph"  />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=2&card_width=300" alt="languages graph"  />
 </div>
 
 <div align="center">
