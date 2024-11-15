@@ -14,9 +14,7 @@
         }
       </style>
 
-      <div class="container" style="background-color: #282a36; border-radius: 10px;">
-        <img width="300" height="150" src="https://github-readme-stats.vercel.app/api?username=wladekprod&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="stats graph" />
-        <img width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="languages graph" />
+      <div class="container" style="background-color: #282a36; border-radius: 10px; height: 150px;">
       </div>
     </div>
   </foreignObject>
