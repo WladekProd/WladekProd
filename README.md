@@ -1,5 +1,5 @@
 # 📊 GitHub Stats:
-<div>
+<div class="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
