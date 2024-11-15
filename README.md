@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="300" src="https://github.com/WladekProd/WladekProd/blob/main/cover.jpg" height="150" alt="stats graph"  />
+<div height="300" align="center">
+  <img src="https://github.com/WladekProd/WladekProd/blob/main/cover.jpg" height="150" alt="stats graph"  />
 </div>
 
 # 📊 GitHub Stats:
