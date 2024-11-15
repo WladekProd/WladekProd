@@ -5,6 +5,8 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img height="100%" src="https://github.com/WladekProd/WladekProd/blob/main/stats_container.svg" alt="stats graph"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="stats graph"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="languages graph"  />
 </div>
 
 <div height="100%" align="center" style="
