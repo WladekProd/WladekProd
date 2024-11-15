@@ -1,5 +1,5 @@
 # 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; width: 100%;">
+<div style="display: flex; justify-content: center; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" style="flex: 1; max-width: 100%; height: auto;" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="flex: 1; max-width: 100%; height: auto;" height="150" alt="languages graph"  />
 </div>
