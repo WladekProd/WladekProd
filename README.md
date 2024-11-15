@@ -4,7 +4,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="100%" src="https://github.com/WladekProd/WladekProd/blob/main/stats.svg" alt="stats graph"  />
+  <img height="100%" src="https://github.com/WladekProd/WladekProd/blob/main/stats_container.svg" alt="stats graph"  />
 </div>
 
 <div height="100%" align="center" style="
