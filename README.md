@@ -8,9 +8,10 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=100" alt="languages graph"  />
 </div>
 
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&card_width=499&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=2&card_width=499&hide_border=true" />
+<div align="center">
+  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&card_width=499&hide_border=true" />
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=2&card_width=499&hide_border=true" />
+</div>
 
 
 # 💻 Tech Stack:
