@@ -1,13 +1,13 @@
 # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wladekprod&theme=jolly&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wladekprod&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 # 💻 Tech Stack:
