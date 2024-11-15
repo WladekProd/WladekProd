@@ -1,3 +1,7 @@
+<div align="center">
+  ![cover](https://github.com/user-attachments/assets/9f0d4aff-9b64-44a4-9e64-93568b701292)
+</div>
+
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
