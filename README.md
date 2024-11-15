@@ -1,5 +1,5 @@
 <div align="center">
-  ![cover](https://github.com/user-attachments/assets/9f0d4aff-9b64-44a4-9e64-93568b701292)
+  <img src="https://github.com/user-attachments/assets/9f0d4aff-9b64-44a4-9e64-93568b701292" height="150" alt="stats graph"  />
 </div>
 
 # 📊 GitHub Stats:
