@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://github.com/WladekProd/WladekProd/blob/main/cover.jpg" height="150" alt="stats graph"  />
+  <img height="300" src="https://github.com/WladekProd/WladekProd/blob/main/cover.jpg" height="150" alt="stats graph"  />
 </div>
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="stats graph"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladekprod&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="languages graph"  />
 </div>
 
 
