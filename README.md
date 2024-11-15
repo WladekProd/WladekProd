@@ -3,6 +3,10 @@
 </div>
 
 # 📊 GitHub Stats:
+<div align="center">
+  <img height="100%" src="https://github.com/WladekProd/WladekProd/blob/main/stats.svg" alt="stats graph"  />
+</div>
+
 <div height="100%" align="center" style="
     background-color: #282a36
     border-radius: 10px
