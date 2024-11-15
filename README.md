@@ -17,7 +17,9 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zbsnow) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wladekinc) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCW_ndYxCcDocccujepKrmWw) 
 
-[![](https://visitcount.itsvg.in/api?id=wladekprod&icon=5&color=10)](https://visitcount.itsvg.in)
+## 💰 Donate
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/wladek) 
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/wladek) 
+---
+
+[![](https://visitcount.itsvg.in/api?id=wladekprod&icon=5&color=10)](https://visitcount.itsvg.in)
