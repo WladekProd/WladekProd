@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&card_width=390&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=2&card_width=490&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&card_width=400&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=2&card_width=500&hide_border=true" />
 </div>
 
 
