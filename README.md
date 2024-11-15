@@ -1,4 +1,4 @@
-<div height="300" align="center">
+<div align="center">
   <img height="100%" object-fit="cover" src="https://github.com/WladekProd/WladekProd/blob/main/cover.jpg" alt="stats graph"  />
 </div>
 
