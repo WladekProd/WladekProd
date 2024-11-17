@@ -1,7 +1,7 @@
 <div align="center">
-  <img height="100%" object-fit="cover" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer"/>
+  <img height="100%" object-fit="cover" src="https://capsule-render.vercel.app/api?type=waving&color=0&height=75&section=footer"/>
   <img height="100%" object-fit="cover" src="https://github.com/WladekProd/WladekProd/blob/main/cover.jpg" alt="stats graph"  />
-  <img height="100%" object-fit="cover" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=header&reversal=false"/>
+  <img height="100%" object-fit="cover" src="https://capsule-render.vercel.app/api?type=waving&color=0&height=75&section=header&reversal=false"/>
 </div>
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
