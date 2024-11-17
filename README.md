@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="100%" object-fit="cover" src="https://capsule-render.vercel.app/api?type=waving&height=75&color=gradient&customColorList=5&section=footer"/>
+  <img height="100%" object-fit="cover" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer"/>
   <img height="100%" object-fit="cover" src="https://github.com/WladekProd/WladekProd/blob/main/cover.jpg" alt="stats graph"  />
+  <img height="100%" object-fit="cover" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=header&reversal=false"/>
 </div>
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -25,7 +26,3 @@
 [![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dwladek%26type%3Dpatrons&style=flat)](https://patreon.com/wladek)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wladekprod.visitor-badge&format=true)
-
-<p align="center">
-  <img height="100%" object-fit="cover" src="https://capsule-render.vercel.app/api?type=waving&height=75&color=gradient&customColorList=5&section=header&reversal=false"/>
-</p>
