@@ -26,5 +26,5 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wladekprod.visitor-badge&format=true)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img height="100%" object-fit="cover" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
