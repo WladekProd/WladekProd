@@ -1,4 +1,5 @@
 <div align="center">
+  <img height="100%" object-fit="cover" src="https://capsule-render.vercel.app/api?type=waving&height=75&color=gradient&customColorList=5&section=footer"/>
   <img height="100%" object-fit="cover" src="https://github.com/WladekProd/WladekProd/blob/main/cover.jpg" alt="stats graph"  />
 </div>
 
@@ -26,5 +27,5 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wladekprod.visitor-badge&format=true)
 
 <p align="center">
-  <img height="100%" object-fit="cover" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img height="100%" object-fit="cover" src="https://capsule-render.vercel.app/api?type=waving&height=75&color=gradient&customColorList=5&section=footer"/>
 </p>
