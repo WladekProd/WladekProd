@@ -4,8 +4,8 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/WladekProd&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
   <a href="https://x.com/wladekinc"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" ></a>
-  <a href="https://youtube.com/@wladekinc"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge"></a>
   <a href="https://t.me/wladek_sfw"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fmogyo.ro%2Fquart-apis%2Ftgmembercount%3Fchat_id%3Dwladek_sfw&style=for-the-badge&logoColor=%23FFFF"></a>
+  <a href="https://youtube.com/@wladekinc"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge"></a>
   <a href="https://patreon.com/wladek"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dwladek%26type%3Dpatrons&style=for-the-badge"></a>
   <!-- <a href="https://discord.gg/zbsnow" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a> -->
 </div>
